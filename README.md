@@ -34,8 +34,9 @@
 
 ---
 
+
 ## 📊 Estatísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AngeloGabrielAlbonetti&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=AngeloGabrielAlbonetti&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloGabrielAlbonetti&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloGabrielAlbonetti&layout=compact&theme=tokyonight)
