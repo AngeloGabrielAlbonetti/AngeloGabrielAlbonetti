@@ -41,4 +41,4 @@
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AngeloGabrielAlbonetti&layout=compact&theme=tokyonight)
 
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=darkhub)
+![Banner](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
