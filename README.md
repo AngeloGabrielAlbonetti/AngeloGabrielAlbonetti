@@ -4,8 +4,6 @@
 📅 18 anos  
 🎮 Apaixonado por jogos  
 🚀 Focado em evoluir na programação  
-
-  ![Banner](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 ---
 
 ## 🌐 Contato
