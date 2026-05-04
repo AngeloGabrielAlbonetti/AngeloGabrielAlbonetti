@@ -33,6 +33,8 @@
 ![C](https://img.shields.io/badge/C-gray)
 
 ---
+## 📊 Estatísticas
+
 
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AngeloGabrielAlbonetti&show_icons=true&theme=tokyonight)
 
