@@ -11,7 +11,9 @@
 
 
 
+## 🐍 Minhas contribuições
 
+![Snake animation](https://github.com/AngeloGabrielAlbonetti/AngeloGabrielAlbonetti/blob/output/github-contribution-grid-snake.svg)
 
 
 
