@@ -34,8 +34,6 @@
 
 ---
 
-## 📊 Estatísticas
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AngeloGabrielAlbonetti&show_icons=true&theme=tokyonight)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AngeloGabrielAlbonetti&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloGabrielAlbonetti&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AngeloGabrielAlbonetti&layout=compact&theme=tokyonight)
