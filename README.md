@@ -5,6 +5,7 @@
 🎮 Apaixonado por jogos  
 🚀 Focado em evoluir na programação  
 
+  ![Banner](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 ---
 
 ## 🌐 Contato
@@ -41,4 +42,3 @@
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AngeloGabrielAlbonetti&layout=compact&theme=tokyonight)
 
 
-![Banner](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
