@@ -1,26 +1,41 @@
-## Olá meu nome e Angelo 👋
-- 📕 Sou estudante de engenharia de software na unicesumar
-- 📅 18 anos 
-- 🎮 Gosto de jogos 
+# 👋 Olá, eu sou Angelo
+
+🎓 Estudante de Engenharia de Software na Unicesumar  
+📅 18 anos  
+🎮 Apaixonado por jogos  
+🚀 Focado em evoluir na programação  
+
+---
+
+## 🌐 Contato
+
 <div> 
-  <a href="https://www.instagram.com/angelo_gabriel_albnt?igsh=aXEwaXcwMmN5NTQ2="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:angeloalbonetti1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/angelo-gabriel-albonetti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/angelo_gabriel_albnt?igsh=aXEwaXcwMmN5NTQ2=" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
   
+  <a href="mailto:angeloalbonetti1@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/angelo-gabriel-albonetti/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
 </div>
 
+---
 
-<div>
-  ![Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark)
-</div>
+## 🛠️ Tecnologias que estou aprendendo
 
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![C](https://img.shields.io/badge/C-gray)
 
+---
 
+## 📊 Estatísticas
 
+![Stats](https://github-readme-stats.vercel.app/api?username=AngeloGabrielAlbonetti&show_icons=true&theme=dark)
 
-
-
-
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloGabrielAlbonetti&layout=compact&theme=dark)
